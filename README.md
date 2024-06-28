@@ -4,6 +4,7 @@
 - Login/Register
 - Change Password/Email
 - Manage User Profile
+- Delete Data
 
 Output
 
