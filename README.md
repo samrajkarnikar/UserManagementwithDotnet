@@ -17,11 +17,7 @@ Manage Roles: localhost:[Portno]/Manage
 
 Output: 
 
-
-
-https://github.com/samrajkarnikar/UserManagementwithDotnet/assets/172218219/2dc3ec7a-cb4f-41f2-b080-60c66dabada0
-
-
+https://github.com/samrajkarnikar/UserManagementwithDotnet/assets/172218219/b8086d5e-c929-4591-9260-4056e892fd6f
 
 ![login](https://github.com/samrajkarnikar/UserManagementwithDotnet/assets/172218219/dd5b344c-12a7-48f2-85a6-f5ed4b558041)
 
