@@ -21,8 +21,8 @@ namespace User.Data
             {
                 UserName = "superadmin",
                 Email = "superadmin@gmail.com",
-                FirstName = "Mukesh",
-                LastName = "Murugan",
+                FirstName = "Super",
+                LastName = "Admin",
                 EmailConfirmed = true,
                 PhoneNumberConfirmed = true
             };
