@@ -11,8 +11,9 @@
       - password: 123Pa$$word.
   
 [The following functions can only be accessed by users with the SuperAdmin role assigned to them]
--Add/View Available Roles: localhost:[Portno]/UserRoles
--Manage Roles: localhost:[Portno]/Manage
+
+- Add/View Available Roles: localhost:[Portno]/UserRoles
+- Manage Roles: localhost:[Portno]/Manage
 
 
 Output: 
