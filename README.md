@@ -5,8 +5,23 @@
 - Change Password/Email
 - Manage User Profile
 - Delete Data
+- Seed Default Role
+- Seed Default Super Admin user :
+  email: superadmin@gmail.com
+  password: 123Pa$$word.
+  
+[The following functions can only be accessed by users with the SuperAdmin role assigned to them]
+Add/View Available Roles: localhost:[Portno]/UserRoles
+Manage Roles: localhost:[Portno]/Manage
 
-Output
+
+Output: 
+
+
+
+https://github.com/samrajkarnikar/UserManagementwithDotnet/assets/172218219/2dc3ec7a-cb4f-41f2-b080-60c66dabada0
+
+
 
 ![login](https://github.com/samrajkarnikar/UserManagementwithDotnet/assets/172218219/dd5b344c-12a7-48f2-85a6-f5ed4b558041)
 
